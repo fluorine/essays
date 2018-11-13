@@ -1,2 +1,2 @@
-# essays
-Some sarcastic essays about everything
+# Essays
+Some sarcastic and (hopefully) humorous essays about everything.
